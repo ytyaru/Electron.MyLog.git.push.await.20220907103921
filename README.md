@@ -6,7 +6,11 @@
 
 # デモ
 
+* [デモ](https://ytyaru.github.io/Electron.MyLog.git.push.await.20220907103921.Site/)
+
+<!--
 * [デモ](https://ytyaru.github.io/Electron.MyLog.20220906090127/)
+-->
 
 # 特徴
 
@@ -28,7 +32,7 @@
 * [Raspbierry Pi](https://ja.wikipedia.org/wiki/Raspberry_Pi) 4 Model B Rev 1.2
 * [Raspberry Pi OS](https://ja.wikipedia.org/wiki/Raspbian) buster 10.0 2020-08-20 <small>[setup](http://ytyaru.hatenablog.com/entry/2020/10/06/111111)</small>
 * bash 5.0.3(1)-release
-* [Node.js] 16.15.1
+* [Node.js][] 16.15.1
 * [Electron][] 20
 * git 2.20.1
 * Chromium 92.0.4515.98（Official Build）Built on Raspbian , running on Raspbian 10 （32 ビット）
@@ -172,8 +176,8 @@ YouTube|`<iframe width="320" height="240" src="https://www.youtube.com/embed/${m
 * [作成DEMO][]
 * [作成リポジトリ][]
 
-[作成DEMO]:https://ytyaru.github.io/Electron.simple.git.Upload.Test.20220902105438/
-[作成リポジトリ]:https://github.com/ytyaru/Electron.simple.git.Upload.Test.20220902105438
+[作成DEMO]:https://ytyaru.github.io/Electron.MyLog.git.push.await.20220907103921.Site/
+[作成リポジトリ]:https://github.com/ytyaru/Electron.MyLog.git.push.await.20220907103921.Site
 
 　もしブラウザ拡張機能[mpurse][]がインストールされており、`db/setting.json`の`mona.address`がセットされていたら、つぶやき一件ごとに投げモナボタンが表示され、機能する。
 
